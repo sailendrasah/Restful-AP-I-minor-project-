@@ -20,6 +20,7 @@ app.get("/", (req, res) => {
           <ul style="font-size: 1rem; line-height: 2;">
             <li><strong>Register (POST)</strong> → <code>/auth/register</code></li>
             <li><strong>Login (POST)</strong> → <code>/auth/login</code></li>
+            <li><strong>List of registered users (GET)</strong> → <code>/auth/getAllUsers</code></li>
             <li><strong>Product Listing (GET)</strong> → <code>/api/product</code></li>
           </ul>
   
