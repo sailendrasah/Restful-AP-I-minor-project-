@@ -1,0 +1,122 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": 799,
+    "feature": true,
+    "company": "apple",
+    "rating": 4.5,
+    "createAdt": "2025-08-03T10:00:00.000Z"
+  },
+  {
+    "name": "Dell XPS",
+    "price": 999,
+    "feature": true,
+    "company": "Dell",
+    "rating": 4.6,
+    "createAdt": "2025-08-01T09:00:00.000Z"
+  },
+  {
+    "name": "Mi Note 11",
+    "price": 399,
+    "feature": false,
+    "company": "mi",
+    "rating": 4.2,
+    "createAdt": "2025-08-02T08:00:00Z"
+  },
+  {
+    "name": "MacBook Pro",
+    "price": 1999,
+    "feature": true,
+    "company": "apple",
+    "rating": 4.9,
+    "createAdt": "2025-07-15T15:45:00Z"
+  },
+  {
+    "name": "Dell Inspiron",
+    "price": 750,
+    "feature": false,
+    "company": "Dell",
+    "rating": 4.0,
+    "createAdt": "2025-07-10T09:20:00Z"
+  },
+  {
+    "name": "Mi Pad 5",
+    "price": 299,
+    "feature": true,
+    "company": "mi",
+    "rating": 4.3,
+    "createAdt": "2025-07-22T11:00:00Z"
+  },
+  {
+    "name": "iPad Air",
+    "price": 599,
+    "feature": true,
+    "company": "apple",
+    "rating": 4.7,
+    "createAdt": "2025-08-03T06:30:00Z"
+  },
+  {
+    "name": "Dell G15",
+    "price": 1100,
+    "feature": true,
+    "company": "Dell",
+    "rating": 4.5,
+    "createAdt": "2025-06-30T14:00:00Z"
+  },
+  {
+    "name": "Mi Band 7",
+    "price": 50,
+    "feature": false,
+    "company": "mi",
+    "rating": 3.8,
+    "createAdt": "2025-08-01T17:00:00Z"
+  },
+  {
+    "name": "iMac",
+    "price": 1800,
+    "feature": true,
+    "company": "apple",
+    "rating": 4.6,
+    "createAdt": "2025-06-25T13:15:00Z"
+  },
+  {
+    "name": "Dell Latitude",
+    "price": 1200,
+    "feature": true,
+    "company": "Dell",
+    "rating": 4.4,
+    "createAdt": "2025-07-05T10:00:00Z"
+  },
+  {
+    "name": "Mi TV 5X",
+    "price": 599,
+    "feature": true,
+    "company": "mi",
+    "rating": 4.1,
+    "createAdt": "2025-07-20T18:00:00Z"
+  },
+  {
+    "name": "Apple Watch",
+    "price": 399,
+    "feature": true,
+    "company": "apple",
+    "rating": 4.7,
+    "createAdt": "2025-07-11T08:30:00Z"
+  },
+  {
+    "name": "Dell Vostro",
+    "price": 800,
+    "feature": false,
+    "company": "Dell",
+    "rating": 4.0,
+    "createAdt": "2025-08-02T09:45:00Z"
+  },
+  {
+    "name": "Mi Router AX6000",
+    "price": 120,
+    "feature": false,
+    "company": "mi",
+    "rating": 4.2,
+    "createAdt": "2025-07-28T16:20:00Z"
+  }
+]
