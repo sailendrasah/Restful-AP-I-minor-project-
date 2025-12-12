@@ -1,0 +1,87 @@
+[
+  {
+    "Number": "100",
+    "name": "Police"
+  },
+  {
+    "Number": "101",
+    "name": "Fire"
+  },
+  {
+    "Number": "102",
+    "name": "Ambulance"
+  },
+  {
+    "Number": "103",
+    "name": "Traffic Police"
+  },
+  {
+    "Number": "108",
+    "name": "Medical Helpline"
+  },
+  {
+    "Number": "1031",
+    "name": "Anti Corruption Helpline"
+  },
+ 
+  {
+    "Number": "1910",
+    "name": "Blood Bank Information"
+  },
+  {
+    "Number": "1919",
+    "name": "Eye Donation Bank"
+  },
+    {
+      "Number": "1440",
+      "name": "National Human Rights Commission (NHRC)"
+    },
+    {
+      "Number": "1098",
+      "name": "Child Helpline (Child Rights)"
+    },
+    {
+      "Number": "181",
+      "name": "Women Helpline (Women Rights)"
+    },
+    {
+      "Number": "1090",
+      "name": "Anti-Terror / Human Safety Helpline"
+    },
+    {
+      "Number": "1091",
+      "name": "Women Protection / Domestic Rights"
+    },
+    {
+      "Number": "100",
+      "name": "Police Emergency (Basic Human Safety)"
+    },
+    {
+      "Number": "101",
+      "name": "Fire Safety (Right to Life & Safety)"
+    },
+    {
+      "Number": "102",
+      "name": "Ambulance Medical Emergency"
+    },
+    {
+      "Number": "104",
+      "name": "Health Helpline (Health Rights)"
+    },
+    {
+      "Number": "108",
+      "name": "Medical Emergency Response"
+    },
+    {
+      "Number": "1095",
+      "name": "Cyber Crime / Online Abuse Rights"
+    },
+    {
+      "Number": "155260",
+      "name": "Financial Fraud Helpline (Consumer Rights)"
+    },
+    {
+      "Number": "112",
+      "name": "Single Emergency Helpline (India)"
+    }
+]
